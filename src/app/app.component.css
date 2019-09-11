@@ -1,0 +1,12 @@
+.filler {
+    height: 900px;
+}
+
+.trial {
+    position: relative;
+}
+
+.sticky {
+    position: fixed;
+    top: 20px;
+}
